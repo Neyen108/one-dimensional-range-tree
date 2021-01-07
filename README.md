@@ -9,3 +9,4 @@ For more info check the pdf readme file in the repo.
 3. Add user input edge cases.
 4. Add catch exception cases for the user inputs.
 
+Copyright © November 2020 Nayanjeet Saikia
